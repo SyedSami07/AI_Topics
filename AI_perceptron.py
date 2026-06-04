@@ -1,5 +1,6 @@
 
-# Python Perceptron
+# The Perceptron defines the first step into Neural Networks.
+#code is written in Python
 
 print("Will I go to the concert?")
 
